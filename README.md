@@ -1,23 +1,8 @@
-This is a Laravel-PHP port of the original portfolio by Roman Nurik ([here](https://github.com/romannurik/portfolio) )
-
-You can find a demo of this application [here](https://laravel-portfolioapp.herokuapp.com), hosted on Heroku!
-
-
-### Features
-
-- Dynamic content, with projects and website info pulled from a database like MySQL or Postgres database.
-- Add projects and website meta-data (title, description, footer, etc) by populating a simple JSON file.
-- Enable/disable certain projects directly from database.
-- Easy to setup, just clone and you're good to go!
-
 ### Instructions
 
 1. Install [Laravel-PHP](https://laravel.com/docs/5.7).
 
 2. Clone this repository
-    ```
-    git clone https://github.com/josephdalughut/laravel-portfolio.git
-    ```
 
 3. Install dependencies:
     ```
